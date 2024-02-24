@@ -41,6 +41,9 @@ I created this shell For educational purposes only, any kind of illegal use is p
  ______________
  
 
+# _Tutorial:_ https://youtu.be/9VMwSeQQt7I?si=ogH9ZXeJZbT8jv-W
+
+
 ### PREVIEW
 
 <img src="login.png" width="90%"></img> <img src="preview.png" width="90%"> <img src="https://c.tenor.com/ABwKNRW4pyQAAAAd/tenor.gif" width="40%"></img> 
