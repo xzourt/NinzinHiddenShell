@@ -1,8 +1,10 @@
 # _NinzinHiddenShell_
 
-<a href="https://www.buymeacoffee.com/michyamrane" target="_blank">
-    <img width="170" height="37" alt="Buy Me A Coffee" src="https://camo.githubusercontent.com/031fc5a134cdca5ae3460822aba371e63f794233/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67">
-</a>
+![logo](https://raw.githubusercontent.com/xzourt/NinzinHiddenShell/main/preview.png)
+I created this shell For educational purposes only, any kind of illegal use is prohibited and the developer is not responsible for any misuse or damage caused by this program.<br/>
+![php](https://img.shields.io/badge/PHP-8.2-bf616a?style=flat-square)
+![licence](https://img.shields.io/badge/LICENE-GPL3.0-ebcb8b?style=flat-square)
+![version](https://img.shields.io/badge/VERSION-1.2.0-a3be8c?style=flat-square)
 
 # _Feature:_
 
@@ -41,7 +43,7 @@
 
 ### PREVIEW
 
-<img src="login.png" width="90%"></img> <img src="/screenshots/wso-main.png" width="90%"></img><img src="preview.png" width="90%"> <img src="/screenshots/wso-bye.gif" width="90%"></img> 
+<img src="login.png" width="90%"></img> <img src="preview.png" width="90%"> <img src="https://c.tenor.com/ABwKNRW4pyQAAAAd/tenor.gif" width="90%"></img> 
  ______________
  
 
