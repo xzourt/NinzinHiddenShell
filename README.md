@@ -36,7 +36,7 @@ I created this shell For educational purposes only, any kind of illegal use is p
 
 |               | Default                | Personal?                       |
 | ------------- |:----------------------:| -------------------------------:|
-| Password      | __xzourt123__           |  (__base64 hash__)  |
+| Password      | __ninzin__           |  (__base64 hash__)  |
 
  ______________
  
