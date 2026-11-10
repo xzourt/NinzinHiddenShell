@@ -1,6 +1,5 @@
 # _NinzinHiddenShell_
 
-![logo](https://raw.githubusercontent.com/xzourt/NinzinHiddenShell/main/preview.png)
 I created this shell For educational purposes only, any kind of illegal use is prohibited and the developer is not responsible for any misuse or damage caused by this program.<br/>
 ![php](https://img.shields.io/badge/PHP-8.2-bf616a?style=flat-square)
 ![licence](https://img.shields.io/badge/LICENE-GPL3.0-ebcb8b?style=flat-square)
